@@ -1,6 +1,8 @@
 # Paint와 Composite 차이
 
-[css 속성](https://csstriggers.com/)[브라우저 렌더링 원리 정리](https://blog.naver.com/pjt3591oo/222495673377)
+[css 속성](https://csstriggers.com/)
+
+[브라우저 렌더링 원리 정리](https://blog.naver.com/pjt3591oo/222495673377)
 
 ```html
 <!DOCTYPE html>
